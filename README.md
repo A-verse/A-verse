@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Now: building NeuroSpeak, contributing to OpenSource, and finishing a Bachelors in Technology" />
+  <img src="./assets/now.svg" width="100%" alt="Now: building NeuroSpeak, contributing to OpenSource, and finishing a B.Tech@IIIT'J" />
 </p>
 
 <br />
@@ -25,7 +25,3 @@
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Anjali Kamal GitHub contribution details" width="100%" />
 
 <br />
-
-<p align="center">
-  <a href="mailto:anjalikamal3105@gmail.com">anjalikamal3105@gmail.com</a>
-</p>
