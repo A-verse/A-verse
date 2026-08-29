@@ -1,6 +1,6 @@
 <svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Anjali Kamal, full-stack developer</title>
-  <desc id="desc">Software should feel deliberate.</desc>
+  <desc id="desc">Building software with intention.</desc>
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
     .headline { font: italic 600 48px Georgia, 'Times New Roman', serif; fill: #1f2328; }
@@ -14,7 +14,7 @@
   </style>
   <text x="2" y="26" class="label">ANJALI KAMAL / FULL-STACK DEVELOPER</text>
   <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="2" y="113" class="headline">software should feel deliberate.</text>
-  <text x="4" y="158" class="copy">scalable software, thoughtful interfaces, and solutions to real-world problems.</text>
+  <text x="2" y="113" class="headline">software should solve real problems.</text>
+  <text x="4" y="158" class="copy">full-stack products, thoughtful interfaces, and engineering that solves real problems.</text>
   <line x1="2" y1="192" x2="878" y2="192" class="rule" />
 </svg>
