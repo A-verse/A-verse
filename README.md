@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://a-verse.vercel.app/"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — a-versee.vercel.app" /></a>&nbsp;
+  <a href="https://a-versee.vercel.app/"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — a-versee.vercel.app" /></a>&nbsp;
   <a href="https://linkedin.com/theanjalikamal"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Anjali Kamal" /></a>&nbsp;
   <a href="https://www.instagram.com/anjalikamal31"><img src="./assets/link-x.svg" width="31.5%" alt="Instagram — @anjalikamal31" /></a>
 </p>
